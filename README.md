@@ -1,4 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ismail Kchibal</h1>
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212750147-854a394f-fee9-4080-9770-78a4b7ece53f.gif" alt="Coding Animation">
+</div>
 <h3 align="center">A passionate Software Engineering Student from Morocco</h3>
 
 - 🌱 I’m currently learning **Software Engineering**
