@@ -24,7 +24,7 @@ Welcome to my digital realm! I'm a Software Engineering Student from Morocco wit
 const ismailKchibal = {
   location: "Morocco 🇲🇦",
   focus: ["Web Technologies", "Intelligent Systems", "Problem Solving"],
-  portfolio: "https://ismail-kchibal.dev", // Coming Soon
+  portfolio: "https://ismailkchibal.dev", // Coming Soon
   contact: "kchibal.ismail@gmail.com",
   currentlyLearning: "Advanced Software Engineering Concepts",
   lookingToCollaborate: true
